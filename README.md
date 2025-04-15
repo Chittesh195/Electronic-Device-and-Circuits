@@ -59,14 +59,3 @@ This project demonstrates the **design and implementation of a voltage regulator
 - The combination of **Zener diode**, **filter capacitor**, and **resistors** offers an effective low-cost regulation technique.
 - This project serves as a strong foundation for further exploration of power electronics and voltage regulation circuits.
 
----
-
-## 📂 Repository Structure
-
-```
-📁 Voltage_Regulator_Project/
-│
-├── 212_EDClab_Project_Report.pdf     # Full documentation and analysis
-├── ECE212_Project_Simulation.pdf     # Simulation output and calculations
-├── README.md                         # Project summary and usage info
-```

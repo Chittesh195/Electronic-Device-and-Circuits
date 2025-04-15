@@ -27,7 +27,6 @@ This project demonstrates the **design and implementation of a voltage regulator
 | Rectifier Diode  | 1N4007          |
 | Capacitor        | 470 µF          |
 | Resistors        | 56Ω, 75Ω        |
-| Load             | Variable        |
 
 ---
 
